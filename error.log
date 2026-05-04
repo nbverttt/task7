@@ -1,0 +1,14 @@
+[04-May-2026 08:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in /home/u82591/www/task7/index.php:54
+Stack trace:
+#0 /home/u82591/www/task7/index.php(305): validate_fio()
+#1 {main}
+  thrown in /home/u82591/www/task7/index.php on line 54
+[04-May-2026 08:28:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in /home/u82591/www/task7/index.php:54
+Stack trace:
+#0 /home/u82591/www/task7/index.php(305): validate_fio()
+#1 {main}
+  thrown in /home/u82591/www/task7/index.php on line 54
+[04-May-2026 08:44:31 UTC] Ошибка сохранения: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u82591.application' doesn't exist
+[04-May-2026 08:45:00 UTC] Ошибка сохранения: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u82591.application' doesn't exist
+[04-May-2026 08:45:03 UTC] Ошибка сохранения: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u82591.application' doesn't exist
+[04-May-2026 08:45:10 UTC] Ошибка сохранения: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'u82591.application' doesn't exist
